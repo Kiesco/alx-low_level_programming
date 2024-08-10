@@ -1,1 +1,1 @@
-solutions to python task
+solutions to 0x00 python
