@@ -1,1 +1,1 @@
-solutions to python
+solutions to python task
